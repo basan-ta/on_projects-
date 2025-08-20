@@ -1,0 +1,9 @@
+.DS_store
+
+output_images/
+input_images/
+*.pyc
+__pycache__/
+*.log
+#ignore all .ini files
+*.ini 
